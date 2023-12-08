@@ -1,0 +1,1430 @@
+[
+  {
+    "name": "nicecontinuscoinchalin",
+    "path": "nicecontinuscoinchalin.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "NICE 銀幣 洽鈴",
+      "en-US": "Nice continus coin CHA-LIN",
+      "ja-JP": "ナイス・コンティナズ・コイン・チャー・リン"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "TC",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "o茶ariado",
+    "path": "o茶ariado.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "謝謝你送的茶~~",
+      "en-US": "Thanks to your tea~",
+      "ja-JP": "お茶ありがとう～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "TC",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "tabederu yo212",
+    "path": "tabederu yo.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "都吃得下呦~",
+      "en-US": "All I can eat yo~",
+      "ja-JP": "食べ出るよ～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "TC",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "nice item23",
+    "path": "nice item.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "Nice item",
+      "en-US": "Nice item",
+      "ja-JP": "ナイス・アイテム "
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "nice",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "YADA",
+    "path": "YADA.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "做到了~",
+      "en-US": "I did it~",
+      "ja-JP": "いやだ~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "ano",
+    "path": "ano.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "ANO~",
+      "en-US": "ANO~",
+      "ja-JP": "あのー~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "laugh1",
+    "path": "laugh1.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "笑聲 1",
+      "en-US": "Laugh 1",
+      "ja-JP": "笑い 1"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "are",
+    "path": "are.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "阿勒 (快)",
+      "en-US": "are (fast)",
+      "ja-JP": "アレ (快)"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "are2",
+    "path": "are2.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "阿勒",
+      "en-US": "are",
+      "ja-JP": "アレ"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "皆",
+    "path": "大家.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "大家~",
+      "en-US": "everyone~",
+      "ja-JP": "皆~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "edo",
+    "path": "edo.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "EDO~",
+      "en-US": "EDO~",
+      "ja-JP": "えど～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "dogana",
+    "path": "dogana.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "DOGANA~",
+      "en-US": "What do you think~",
+      "ja-JP": "どうがな～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "dewane",
+    "path": "dewane.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "DEWANE~",
+      "en-US": "DEWANE~",
+      "ja-JP": "でわね～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "daisukidesu",
+    "path": "daisukidesu.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "最喜歡了~",
+      "en-US": "I love it~",
+      "ja-JP": "大好きです~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "hayai ne",
+    "path": "hayai ne.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "很快捏~",
+      "en-US": "It's fast~",
+      "ja-JP": "早い ね~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "hayai",
+    "path": "hayai.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "HAYAYA~",
+      "en-US": "HAYAYA~",
+      "ja-JP": "はやや~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "hiyo",
+    "path": "hiyo.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "HYO~",
+      "en-US": "HYO~",
+      "ja-JP": "ひょ～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "iine",
+    "path": "iine.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "很好捏~",
+      "en-US": "It's good~",
+      "ja-JP": "いいね~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "kinono",
+    "path": "kinono.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "昨天的~",
+      "en-US": "Yesterday~",
+      "ja-JP": "昨日の~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "kurukuru",
+    "path": "kurukuru.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "咕嚕咕嚕~",
+      "en-US": "KURUKURU~",
+      "ja-JP": "くるくる~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "sosososo",
+    "path": "sosososo.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "SOSOSOSO~",
+      "en-US": "SOSOSOSO~",
+      "ja-JP": "そそそそ~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "ㄟ修",
+    "path": "ㄟ修.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "嘿修",
+      "en-US": "HEYSHOW~",
+      "ja-JP": "へしょ~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "耶 嘿咻",
+    "path": "耶 嘿咻.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "耶 嘿咻~",
+      "en-US": "YA HEYSHOW~",
+      "ja-JP": "いえ　へえしょ~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "耶修",
+    "path": "耶修.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "耶修",
+      "en-US": "A SHOW~",
+      "ja-JP": "いえーしょ"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "sono",
+    "path": "sono.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "這個",
+      "en-US": "This~",
+      "ja-JP": "その~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "ureshi",
+    "path": "ureshi.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "好開心",
+      "en-US": "I am happy~",
+      "ja-JP": "嬉しい～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "今wa",
+    "path": "今wa.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "今天呀~",
+      "en-US": "Today~",
+      "ja-JP": "今日は～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "uisho",
+    "path": "uisho.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "嗚嘿咻~",
+      "en-US": "UISHO~",
+      "ja-JP": "うーしょ"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "smui_ne",
+    "path": "smuine.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "有點冷捏~",
+      "en-US": "It's cold NE~",
+      "ja-JP": "寒ね~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "anonani",
+    "path": "anonani.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "那個什麼~",
+      "en-US": "What is this~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "senbu_sa",
+    "path": "全部saa.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "全部sa~",
+      "en-US": "ALL~",
+      "ja-JP": "全部さ～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "大丈夫 kana",
+    "path": "大丈夫kana.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "大丈夫 kana~",
+      "en-US": "It's OK ~",
+      "ja-JP": "大丈夫がな～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "可愛對吧 恩亨",
+    "path": "可愛對吧 恩亨.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "可愛對吧 恩亨~",
+      "en-US": "It's cute right~?",
+      "ja-JP": "かわいいね　ふふ～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "結構ne",
+    "path": "結構ne.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "結構ne~",
+      "en-US": "So ne~",
+      "ja-JP": "結構ね～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "heart i bai",
+    "path": "heart i bai.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "好多愛心~",
+      "en-US": "So many heart~",
+      "ja-JP": "ハード 多い～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "nanikora",
+    "path": "nanikora.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "那是什麼~",
+      "en-US": "What is this~",
+      "ja-JP": "なにこれ～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "oishi yone",
+    "path": "oishi yone.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "好吃吧~",
+      "en-US": "Yummy~",
+      "ja-JP": "美味しいよね～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "tabederu yo",
+    "path": "tabederu yo.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "都吃得下呦~",
+      "en-US": "All I can eat~",
+      "ja-JP": "食べてるよ～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "mayuru yogada",
+    "path": "mayuru yogada.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "まゆる 太好了~",
+      "en-US": "MAYURU is great~",
+      "ja-JP": "まゆる 良かった"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "new mayuru",
+    "path": "new mayuru.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "NEW まゆる",
+      "en-US": "NEW MAYURU~",
+      "ja-JP": "NEW まゆる"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "oshiedene22",
+    "path": "oshiedene.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "告訴我吧ね~",
+      "en-US": "Tell me NE~",
+      "ja-JP": "教えてね~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "sukoine e~",
+    "path": "sukoine e~.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "很厲害捏~ 欸?!",
+      "en-US": "It's great ~",
+      "ja-JP": "すごいね　え～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "金曜日",
+    "path": "金曜日.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "星期五",
+      "en-US": "Friday",
+      "ja-JP": "金曜日"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "頑張de",
+    "path": "頑張de.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "加油~!",
+      "en-US": "Fighting~",
+      "ja-JP": "頑張って～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "tanoshigadayode",
+    "path": "tanoshigadayode.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "很開心 DAYODE~",
+      "en-US": "I am happy DAYODE~",
+      "ja-JP": "楽しいだよね～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "yogadayo",
+    "path": "yogadayo.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "太好了 DAYO~",
+      "en-US": "Wonderful~",
+      "ja-JP": "良かったよ～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "今天一天辛苦了",
+    "path": "今天一天辛苦了.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "今天一天辛苦了",
+      "en-US": "Thank you for your hard work today~",
+      "ja-JP": "今日もお疲れ様です～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "tanz no",
+    "path": "tanz no.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "Tanz醬的~",
+      "en-US": "TanZ's~",
+      "ja-JP": "TanZちゃんの～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "nicecontinuscoinchalin2",
+    "path": "nicecontinuscoinchalin.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "NICE 銀幣 洽鈴",
+      "en-US": "Nice continus coin CHA-LIN",
+      "ja-JP": "ナイス・コンティナズ・コイン・チャー・リン"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "nice",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "nice item",
+    "path": "nice item.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "Nice item",
+      "en-US": "Nice item!",
+      "ja-JP": "ナイス・アイテム "
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "nice",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "nice初comment",
+    "path": "nice初comment.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "Nice初comment",
+      "en-US": "Nice first comment",
+      "ja-JP": "ナイス・初・コメント "
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "nice",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "ne(長)",
+    "path": "ne(長).mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "ね(長)",
+      "en-US": "NE(long)",
+      "ja-JP": "ね(長)"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "ne(平淡)",
+    "path": "ne(平淡).mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "ね(平淡)",
+      "en-US": "NE(long)",
+      "ja-JP": "ね(平)"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "ne mosa",
+    "path": "ne mosa.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "ね もさ",
+      "en-US": "NE MOSA",
+      "ja-JP": "ね もさ"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "ne mochododa",
+    "path": "ne mojododa.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "ね 等一下啦",
+      "en-US": "NE wait me~",
+      "ja-JP": "ね もちょっと だ～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "hayai ne32",
+    "path": "hayai ne.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "很快ね~",
+      "en-US": "It is fast NE~",
+      "ja-JP": "早いね~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "iine32",
+    "path": "iine.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "很好ね~",
+      "en-US": "It is good NE~",
+      "ja-JP": "いいね~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "oshiedene",
+    "path": "oshiedene.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "告訴我吧ね~",
+      "en-US": "Tell me NE~",
+      "ja-JP": "教えてね~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "sukoine e~2",
+    "path": "sukoine e~.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "很厲害捏~ 欸?!",
+      "en-US": "Isn't it good ?",
+      "ja-JP": "すごいね　え～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "今ne",
+    "path": "今ne.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "今天ね~",
+      "en-US": "Today NE~",
+      "ja-JP": "今ね～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "こんにちは 恩亨",
+    "path": "こんにちは 恩亨.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "晚安 哼哼~",
+      "en-US": "Good evening FUFU",
+      "ja-JP": "こんにちは　ふふ"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "fufu",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "不安定嚕呼呼",
+    "path": "不安定嚕呼呼.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "不安定嚕哼哼",
+      "en-US": "FUANTING RUFUFU",
+      "ja-JP": "不安定るふふ"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "fufu",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "乎哼哼",
+    "path": "乎哼哼.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "呼哼哼",
+      "en-US": "HUFUFU",
+      "ja-JP": "ふふふ～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "fufu",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "恩哼哼",
+    "path": "恩哼哼.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "嗯哼哼",
+      "en-US": "NFUFU",
+      "ja-JP": "うふふ～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "fufu",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "謝謝 哼哼",
+    "path": "謝謝 哼哼.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "謝謝 哼哼",
+      "en-US": "Thank FUFU",
+      "ja-JP": "ありがとう　ふふ"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "fufu",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "love u 哼哼",
+    "path": "love u 哼哼.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "Love you 哼哼",
+      "en-US": "Love you FUFU",
+      "ja-JP": "Love you　ふふ"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "fufu",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "yoroshikune 哼哼",
+    "path": "yoroshikune 哼哼.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "請多指教捏 哼哼",
+      "en-US": "Nice to meet you FUFU",
+      "ja-JP": "よろしくね　ふふ"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "fufu",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "可愛對吧 恩亨312",
+    "path": "可愛對吧 恩亨.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "可愛對吧 恩亨~",
+      "en-US": "Isn't it cute? FUFU~",
+      "ja-JP": "かわいいね　ふふ～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "fufu",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  }
+]
